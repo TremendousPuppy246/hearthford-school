@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+body {
+    background-color:peachpuff;
+     color:lightcoral;
+      font-family: 'PT Serif';
+}
+
+marquee {
+    color:hotpink;
+    direction: right;
+}
+
+section {
+    background-image: url(HTML/school.jpg);
+    background-size: 36cm;
+    text-align: center;
+    font-size: 31.8pt;
+}
+
+h1 {
+    font-size: 31.8pt;
+}
+
+p {
+    font-size: 31.8pt;
+}
+
+ul {
+    font-size: 31.8pt;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-color: lightcoral; 
+    text-align: center;
+    border: 3;
+}
